@@ -60,6 +60,5 @@ My goal is to bridge the gap between raw datasets and actionable insights by dev
 
 ---
 ## 📫 Contact
-📧 Email: [nguyenphamchibao04@gmail.com](mailto:nguyenphamchibao04@gmail.com)  
-🔗 LinkedIn: [your_linkedin](https://www.linkedin.com/in/ch%C3%AD-b%E1%BA%A3o-394bb535a/)  
+📧 Email: [nguyenphamchibao04@gmail.com](mailto:nguyenphamchibao04@gmail.com)   
 💻 GitHub: https://github.com/ChiBao-v
