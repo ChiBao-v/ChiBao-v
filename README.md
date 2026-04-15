@@ -4,9 +4,9 @@
 📍 Ho Chi Minh City, Vietnam  
 
 ## 🎓 Education
-**Industrial University of Ho Chi Minh City**
-Major: Data Science 
-2022 – Present
+**Industrial University of Ho Chi Minh City**  
+Major: Data Science   
+2022 – Present  
 
 ---
 > **"Transforming raw data into meaningful insights is not just about algorithms — it's about understanding the story behind the data."**
